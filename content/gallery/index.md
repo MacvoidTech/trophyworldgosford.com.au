@@ -1,5 +1,6 @@
 ---
-title: "Gallery"
+title: "Music"
+date: 2022-06-13T20:55:37+01:00
 draft: false
 
 showDate : false
@@ -11,38 +12,22 @@ showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
 showSummary : false
-sharingLinks : false
 showEdit: false
-showAuthor: false
 showViews: false
+showAuthor: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
-
-#groupByYear : false
+groupByYear: false
+cardView: true
+cardViewScreenWidth: false
 
 ---
 
-Here are some of our previous works.
+Here are some of our previous works
 
-<table>
-    <thead>
-        <tr>
-            <th>Image</th>
-            <th>Customer</th>
-        </tr>
-    </thead>
-    <tbody>
-         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery1.png" alt="image" width="25%" height="auto"/></td>
-            <td>Lisarow Ourimbah Cricket Club</td>
-        </tr>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery2.png"/></td>
-            <td>Gosford Racing</td>
-        </tr>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery4.png"/></td>
-            <td>Lisarow Ourimbah Cricket Club</td>
-        </tr>
-    </tbody>
-</table>
+## Tracks
+
+{{< gallery >}}
+    <a class="grid-w50 md:grid-w33" target="_blank"><img src="/img/gallery1.png" alt="image" width="50%" height="auto" class="nozoom m-0" />
+    <a class="grid-w50 md:grid-w33" target="_blank"><img src="/img/gallery2.png" alt="image" width="50%" height="auto" class="nozoom m-0" />
+{{< /gallery >}}
