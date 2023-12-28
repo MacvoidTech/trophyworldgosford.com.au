@@ -34,7 +34,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, custom
-  homepageImage = "img/backgroundjpg"
+  homepageImage = "img/background.jpg"
   showRecent = true
   showRecentItems = 12
   showMoreLink = true
