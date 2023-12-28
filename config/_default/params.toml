@@ -8,8 +8,8 @@ colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
-enableCodeCopy = true
+enableSearch = false
+enableCodeCopy = false
 
 mainSections = ["posts"]#, "suggestions"]
 # robots = ""
@@ -69,7 +69,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "pinterest", "reddit", "facebook", "email"]
+ # sharingLinks = [ "linkedin", "twitter", "pinterest", "reddit", "facebook", "email"]
 
 [list]
   showHero = true
