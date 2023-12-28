@@ -16,7 +16,7 @@ title = "Trophy World"
 [author]
   name = "Trophy World Gosford"
   image = "img/trophyworld.png"
-  headline = "Trophy World are specialists in laser and conventional engraving, corporate awards and trophies for all occasions."
+  headline = "Trophy World are your specialists in laser and conventional engraving, corporate awards and trophies for all occasions."
   bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   links = [
     { facebook = "https://www.facebook.com/trophyworld" },
