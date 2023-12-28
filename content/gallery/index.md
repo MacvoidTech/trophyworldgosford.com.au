@@ -33,7 +33,7 @@ Here are some of our previous works.
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery1.png"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery1.png" alt="image" width="25%" height="auto"/></td>
             <td>Lisarow Ourimbah Cricket Club</td>
         </tr>
         <tr>
