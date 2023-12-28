@@ -11,15 +11,15 @@ showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
 showSummary : false
-sharingLinks : false
 showEdit: false
+showAuthor: false
+sharingLinks : false
 showViews: false
 showLikes: false
-showAuthor: false
 layoutBackgroundHeaderSpace: false
+groupByYear: false
 cardView: true
 cardViewScreenWidth: false
-groupByYear: false
 ---
 
 {{< gallery >}}
