@@ -30,6 +30,24 @@
   pageRef = "contact"
   weight = 40
 
+[[main]]
+  identifier = "Facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/trophyworldgosford"
+  weight = 50
+
+[[main]]
+  identifier = "Instagram"
+  pre = "Instagram"
+  url = "https://www.instagram.com/Trophyworldgosford"
+  weight = 60
+
+[[main]]
+  identifier = "TikTok"
+  pre = "tiktok"
+  url = "https://tiktok.com/trophyworldgosford"
+  weight = 200
+
 
 
 #[[main]]
