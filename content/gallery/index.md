@@ -32,15 +32,15 @@ Here are some of our previous works.
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="image1.png"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery1.png"/></td>
             <td>Lisarow Ourimbah Cricket Club</td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="image2.png"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery2.png"/></td>
             <td>Gosford Racing</td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="image4.png"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="gallery4.png"/></td>
             <td>Lisarow Ourimbah Cricket Club</td>
         </tr>
     </tbody>
