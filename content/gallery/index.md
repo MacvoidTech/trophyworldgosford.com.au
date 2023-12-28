@@ -23,7 +23,4 @@ cardViewScreenWidth: false
 ---
 {{< gallery >}}
     <a class="grid-w50 md:grid-w33" target="_blank"><img src="images/gallery1.png" class="nozoom m-0" />
-    <a class="grid-w50 md:grid-w33" target="_blank"><img src="images/gallery2.png" class="nozoom m-0" />
-    <a class="grid-w50 md:grid-w33" target="_blank"><img src="images/gallery3.png" class="nozoom m-0" />
-    <a class="grid-w50 md:grid-w33" target="_blank"><img src="images/gallery4.png" class="nozoom m-0" />
 {{< /gallery >}}
