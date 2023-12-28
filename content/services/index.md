@@ -16,8 +16,14 @@ sharingLinks : false
 showEdit: false
 showViews: false
 showLikes: false
-showAuthor: true
+showAuthor: false
 layoutBackgroundHeaderSpace: false
 
 
 ---
+
+Trophy World are specialists in laser and conventional engraving, corporate awards and trophies for all occasions.
+
+We have a large range of trophies to suit all styles and budgets including cups, timber plaques, glass pieces, crystal and more.
+
+Our expert staff are here to assist you from initial design, right through to the finished product. Contact us today !
