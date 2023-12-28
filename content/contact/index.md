@@ -30,9 +30,15 @@ Email: trophyworld1@live.com
 ### Opening Hours
 
 Monday: 8:30am - 4:30pm
+
 Tuesday: 8:30am - 4:30pm
+
 Wednesday: 8:30am - 4:30pm
+
 Thursday: 8:30am - 4:30pm
+
 Friday: 8:30am - 4:30pm
+
 Saturday: By Appointment
+
 Sunday: Closed
