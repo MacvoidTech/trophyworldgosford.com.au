@@ -28,6 +28,6 @@ Here are some of our previous works
 ## Tracks
 
 {{< gallery >}}
-    <a class="grid-w50 md:grid-w33" target="_blank"><img src="gallery1.png" alt="image" width="50%" height="auto" class="nozoom m-0" />
-    <a class="grid-w50 md:grid-w33" target="_blank"><img src="gallery2.png" alt="image" width="50%" height="auto" class="nozoom m-0" />
+    <a class="grid-w50 md:grid-w33" target="_blank"><img src="gallery1.png" alt="image" width="75%" height="auto" class="nozoom m-0" />
+    <a class="grid-w50 md:grid-w33" target="_blank"><img src="gallery2.png" alt="image" width="75%" height="auto" class="nozoom m-0" />
 {{< /gallery >}}
