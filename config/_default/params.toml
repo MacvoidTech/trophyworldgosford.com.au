@@ -24,7 +24,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
-  layout = "fixed-fill-blur"
+  layout = "fixed"
 
 [footer]
   showCopyright = true
