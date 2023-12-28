@@ -24,3 +24,4 @@ cardViewScreenWidth: false
 
 {{< gallery >}}
     <a class="grid-w50 md:grid-w33" target="_blank"><img src="images/gallery1.png" class="nozoom m-0" />
+{{< /gallery >}}
