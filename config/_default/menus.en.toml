@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "HOME"
-  pageRef = "home"
+  name = "Home"
+  url = "https:www.mcnlt.com"
   weight = 10
 
 [[main]]
