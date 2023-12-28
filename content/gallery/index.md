@@ -13,6 +13,7 @@ showWordCount : false
 showSummary : false
 sharingLinks : false
 showEdit: false
+showAuthor: false
 showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
