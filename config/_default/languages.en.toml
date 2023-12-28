@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Trophy World"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/trophyworld.png"
+  # secondaryLogo = "PATH"
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Trophy World Gosford"
+  image = "img/trophyworld.png"
+  headline = "Trophy World are specialists in laser and conventional engraving, corporate awards and trophies for all occasions."
+  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  links = [
+    { facebook = "https://www.facebook.com/trophyworld" },
+    { instagram = "https://masto.ai/@blowfish" },
+    { tiktok = "https://github.com/nunocoracao/blowfish" },
+  ]
+
+  
