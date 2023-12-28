@@ -1,15 +1,23 @@
 ---
-title: "services"
-description: "ENGRAVING  |  CORPORATE AWARDS  |  TROPHIES"
+title: "Services"
+date: 2022-06-13T20:55:37+01:00
+draft: false
 
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
----
+showDate : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
+showEdit: false
+showViews: false
+showLikes: false
+showAuthor: true
+layoutBackgroundHeaderSpace: false
 
-{{< lead >}}
- Offering ﻿friendly, reliable service from industry expert... Josh Mercer
-{{< /lead >}}
 
 ---
