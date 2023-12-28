@@ -11,29 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
-  url = "https:www.mcnlt.com"
-  weight = 10
-
-[[main]]
   name = "SERVICES"
   pageRef = "services"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "GALLERY"
   pageRef = "gallery"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "FAQ"
   pageRef = "faq"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "CONTACT US"
   pageRef = "contact"
-  weight = 50
+  weight = 40
 
 
 
