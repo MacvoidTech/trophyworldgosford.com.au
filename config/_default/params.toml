@@ -15,7 +15,7 @@ mainSections = ["posts"]#, "suggestions"]
 # robots = ""
 
 disableImageOptimization = true
-disableTextInHeader = true
+disableTextInHeader = false
 
 defaultBackgroundImage = "img/background.jpg"
 
