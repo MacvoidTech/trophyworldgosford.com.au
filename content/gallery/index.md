@@ -15,6 +15,7 @@ showSummary : false
 showEdit: false
 showViews: false
 showLikes: false
+showAuthor: false
 layoutBackgroundHeaderSpace: false
 groupByYear: false
 cardView: true
